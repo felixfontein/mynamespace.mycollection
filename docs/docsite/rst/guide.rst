@@ -15,7 +15,7 @@ The :ref:`mynamespace.mycollection collection <plugins_in_mynamespace.mycollecti
 Test module
 -----------
 
-We have a :ref`test module <ansible_collections.mynamespace.mycollection.test_module>`.
+We have a :ref:`test module <ansible_collections.mynamespace.mycollection.test_module>`.
 
 .. versionadded:: 0.1.0
 
