@@ -22,6 +22,6 @@ We have a :ref:`test module <ansible_collections.mynamespace.mycollection.test_m
 Test lookup
 -----------
 
-We have a :ref`test lookup <ansible_collections.mynamespace.mycollection.test_lookup>` as well.
+We have a :ref:`test lookup <ansible_collections.mynamespace.mycollection.test_lookup>` as well.
 
 .. versionadded:: 0.1.0
